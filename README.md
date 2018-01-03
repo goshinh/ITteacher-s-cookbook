@@ -19,6 +19,7 @@ stqq=1
 last=43102
 lasq=0
 ```
+[对应的图形界面:]( ITteacher-s-cookbook/无标题.png )
 
 #### 学生端
 ## 浏览器

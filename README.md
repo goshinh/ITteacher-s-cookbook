@@ -3,7 +3,7 @@
 
 **------------- -------------以下基于Windows 7操作系统 -------------**
 ## 电子教室软件
-### 伽卡他卡电子教室
+### [伽卡他卡电子教室](http://gakataka.com/netclass)
 #### 教室端
 - 注意备份配置文件,就是这个config文件夹
 > C:\Program Files\gakataka\Teacher\config
@@ -24,7 +24,7 @@ lasq=0
 
 #### 学生端
 ## 浏览器
-### firefox 配置
+### [Firefox](http://www.firefox.com.cn/) 配置
 - 设置书签栏显示的书签(如学校首页等)
 - 安装屏蔽广告的插件，如uBlock
 - 配置“选项”--〉“隐私与安全”--〉“历史记录”

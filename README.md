@@ -19,8 +19,8 @@ stqq=1
 last=43102
 lasq=0
 ```
-[对应的图形界面:]( ITteacher-s-cookbook/无标题.png )
-![](ITteacher-s-cookbook/无标题.png)
+对应的图形界面:<br/>
+![](https://github.com/goshinh/ITteacher-s-cookbook/blob/master/%E6%97%A0%E6%A0%87%E9%A2%98.png)
 
 #### 学生端
 ## 浏览器

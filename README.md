@@ -32,7 +32,7 @@ lasq=0
 - 启动默认浏览器检查
 
 ### IE 配置
-- 设置书签栏显示的书签如学校首页等
+- 设置书签栏显示的书签(如学校首页等)
 - 安装屏蔽广告的插件，如[Adblock Plus](https://adblockplus.org/zh_CN/internet-explorer)
 - 配置“Internet 选项”--〉“浏览历史”
 - 配置“Internet 选项”--〉“主页”
